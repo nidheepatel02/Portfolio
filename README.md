@@ -1,3 +1,3 @@
 # Portfolio
 
-Created Responsive Portfolio Website using HTML, CSS and JavaScript
+Responsive Portfolio Website using HTML, CSS and JavaScript
